@@ -13,4 +13,6 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/026_Remove_Duplicates_from_Sorted_Array.js)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/035_Search_Insert_Position.js)|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/058_Length_of_Last_Word.js)|
+|67|[Add Binary](https://leetcode.com/problems/length-of-last-word/description/)|JavaScript|
+|070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/070_Climbing_Stairs.js)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/121_Best_Time_to_Buy_and_Sell_Stock.js)|
