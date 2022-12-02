@@ -16,3 +16,5 @@
 |67|[Add Binary](https://leetcode.com/problems/length-of-last-word/description/)|JavaScript|
 |070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/070_Climbing_Stairs.js)|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/121_Best_Time_to_Buy_and_Sell_Stock.js)|
+|268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/268_Missing_Number.js)|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[JavaScript (not finished yet)](https://github.com/roroiii/leetcode/blob/main/javascript/322_Coin_Change.js)|
