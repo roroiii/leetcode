@@ -18,3 +18,23 @@
 
     DP - Top-down and Bottom-up 觀念：【筆記】DP：Top-down vs. Bottom-up (https://yuihuang.com/dp-top-down-vs-bottom-up/)
  */
+
+var coinChange = function (coins, amount) {
+  const table = new Array(amount + 1).fill(Infinity);
+  table[0] = 0;
+
+  for (let coin of coins) {
+    for (let i = 0; i < table.length; i++) {
+      if (coin <= i) {
+        let index = i - coin;
+        let potentialAmount = table[index] + 1;
+        table[i] = Math.min(potentialAmount, table[i]);
+      }
+    }
+  }
+  return table[table.length - 1] === Infinity ? -1 : table[table.length - 1];
+};
+
+console.log(coinChange([1, 2, 5], 11));
+console.log(coinChange([2], 3));
+console.log(coinChange([1], 0));

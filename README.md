@@ -19,4 +19,4 @@
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/121_Best_Time_to_Buy_and_Sell_Stock.js)|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/268_Missing_Number.js)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/202_Happy_Number.js)|
-|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[JavaScript (not finished yet)](https://github.com/roroiii/leetcode/blob/main/javascript/322_Coin_Change.js)|
+|322|[Coin Change](https://leetcode.com/problems/coin-change/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/322_Coin_Change.js)|
