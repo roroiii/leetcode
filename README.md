@@ -1,8 +1,15 @@
 # leetcode
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=roroiii&theme=unicorn&extension=activity)
+
+## To use this project
+
 `cd javascript`
+
 `node code.js`
-`
+
+##
+
 | # | Title | Solution | Description |
 |---| ----- | -------- | ----------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/001.js)|
