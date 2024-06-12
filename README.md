@@ -19,9 +19,9 @@
 | 21  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                           | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/021.js) |
 | 26  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/026.js) |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)                           | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/035.js) |
-| 53  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                 | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/053.js) | 計算最大連續和，與 Lidemy LIOJ 1048 相關 |
+| 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                   | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/053.js) | 計算最大連續和，與 Lidemy LIOJ 1048 相關 |
 | 58  | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)                                 | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/058.js) |
-| 67  | [Add Binary](https://leetcode.com/problems/length-of-last-word/description/)                                          | JavaScript                                                                    |
+| 67  | [Add Binary](https://leetcode.com/problems/add-binary/)                                                               | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/067.js) |
 | 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                         | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/070.js) |
 | 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                               | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/088.js) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                     | [JavaScript](https://github.com/roroiii/leetcode/blob/main/javascript/121.js) |
